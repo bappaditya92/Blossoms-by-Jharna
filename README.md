@@ -1,1 +1,1 @@
-# Blossoms by Jharna
+A simple e-commerce platform for a flower shop built with React.js.
